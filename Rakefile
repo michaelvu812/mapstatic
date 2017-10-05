@@ -45,7 +45,6 @@ spec = Gem::Specification.new do |s|
 
   # If your tests use any gems, include them here
   s.add_dependency('mini_magick', '~> 3.6.0')
-  s.add_dependency('faraday', '~> 0.8.8')
   s.add_dependency('thor', '~> 0.18.1')
   s.add_dependency('awesome_print', '~> 1.2.0')
   s.add_dependency('typhoeus', '~> 0.6.6')
